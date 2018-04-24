@@ -15,7 +15,7 @@
 * Conjuntos
 
 ### Sistemas Digitales
-__Sólo para cursos completos__
+**Sólo para cursos completos**
 * Compuertas Logicas
 * Interpretación de un Circuito
 
