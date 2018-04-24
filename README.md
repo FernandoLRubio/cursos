@@ -15,9 +15,10 @@
 * Conjuntos
 
 ### Sistemas Digitales
-**Sólo para cursos completos**
+_Solo en cursos completos_
 * Compuertas Logicas
 * Interpretación de un Circuito
+* Reducción de un Circuito
 
 ### Arquitectura y Organización
 * Elementos de una computadora
