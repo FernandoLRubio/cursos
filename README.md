@@ -1,5 +1,4 @@
-# Ciencias Computacionales 101
-
+# Intro a las Ciencias Computacionales
 #### Plan de Estudios:
 - Historia de la Computación
 - Matemáticas Discretas
